@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Exit - j.jpg</file>
+        <file>High Scores - j.jpg</file>
+        <file>Main Page.jpg</file>
+        <file>New Game - j.jpg</file>
+        <file>New Game - Pointed j.jpg</file>
+        <file>Road.jpg</file>
+        <file>Toktok.jpg</file>
+        <file>About.jpg</file>
+        <file>High Scores.jpg</file>
+        <file>Enemycar.jpg</file>
+        <file>Crash.wav</file>
+        <file>HighScores.txt</file>
+        <file>Horn.wav</file>
+        <file>Start.wav</file>
+    </qresource>
+</RCC>
